@@ -95,12 +95,3 @@ systemctl start httpd
 
 5. **Access the Website:**
    - Once deployed, access the static website using the public DNS or IP address of the load balancer.
-
-
-
-### Acknowledgments
-
-
-- Ensure that your EC2 instance has the necessary security group rules to allow incoming traffic on port 80 (HTTP) so that your web server is accessible from the internet.
-- For security reasons, avoid running the script with root privileges unless necessary. It's recommended to create a limited privilege user and execute the script using that user.
-
