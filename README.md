@@ -6,7 +6,7 @@ This project demonstrates the deployment of a static HTML web app on AWS, utiliz
 
 ### Architecture
 
-![Project Architecture Diagram](link_to_diagram)
+![Alt text](aws-static-web-app.png)
 
 ### AWS Resources Utilized
 
