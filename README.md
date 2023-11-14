@@ -67,8 +67,7 @@ sudo yum install git -y
 
 # Clone the web app repository
 cd /var/www/html
-git clone <repository_url>
-
+git clone git@github.com:gazypendragon/CRAA-HTML-EC2.git
 # Copy web app files
 cd CRAA-HTML-EC2/
 cp -r mole-main/* /var/www/html/
