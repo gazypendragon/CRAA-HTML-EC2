@@ -94,3 +94,4 @@ systemctl start httpd
 
 5. **Access the Website:**
    - Once deployed, access the static website using the public DNS or IP address of the load balancer.
+     # This is the format to use to update the image: ![Alt text](aws-static-web-app.png)
